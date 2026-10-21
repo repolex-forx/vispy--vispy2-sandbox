@@ -1,0 +1,11 @@
+{
+  "org": "vispy",
+  "repo": "vispy2-sandbox",
+  "versions": [
+    {
+      "commit": "670269944bcfebab31a68395c8503d36dbaab538",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:51:26.073665+00:00"
+    }
+  ]
+}
