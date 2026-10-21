@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vispy/vispy2-sandbox/commit/670269944bcfebab31a68395c8503d36dbaab538",
       "git:hexsha": "670269944bcfebab31a68395c8503d36dbaab538",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
